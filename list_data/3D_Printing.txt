@@ -1,0 +1,305 @@
+##################################################################### 
+Title: 3D Printing Resources at OSU 
+
+MapTypes: Lab, Center, Department
+HideTypesList: Location
+HideTypesGraph: Building, Location, Resource, Online, Guide, Access, Cost
+OrderTypesList: Lab, Center, Department, Printer, Contact
+TypePlurals: Online/Online, Access/Access, Cost/Cost
+AutoLink: Building/Location
+#AutoLink: Building/Location, Department/Building
+ShowLinkTypes: true
+
+#SelfLinkTypes: Place
+#AutoLink: Place/Building, Place/Location, Building/Location, Place/Contact
+
+#####################################################################
+  
+Guide: Make 3D Printer Buyers Guide,https://makezine.com/comparison/3dprinters/
+
+Lab: Innovation Studio,https://nursing.osu.edu/sections/office-of-innovation-and-strategic-partnerships/innovation-studio/
+Printer: FormLabs Form 2, https://formlabs.com/3d-printers/form-2/ 
+Contact: wooten.74@osu.edu 
+College: Nursing
+Location: 40.0004661,-83.0111283
+Building: Hayes Hall
+Access: university-wide
+Access: with permission
+Cost: pricing formula
+
+#Lab: Digital Union Stillman, http://odee.osu.edu/3d-printing
+Lab: Digital Union Enarson, http://odee.osu.edu/3d-printing
+#Printer: MakerBot Replicator 5th Generation, http://store.makerbot.com/replicator
+Printer: LulzBot TAZ 6, https://www.lulzbot.com/store/printers/lulzbot-taz-6  
+#Contact: Queenie Chow, http://u.osu.edu/chow.57/about/
+#Contact: Chris Harshfield, harshfield.6@osu.edu
+#Contact: Tyler Griffin, griffin.413@osu.edu
+Contact: Amy Spears, spears.93@osu.edu
+Building: Enarson Hall
+Location: 40.0012074,-83.0189102
+Access: university-wide
+Access: with permission
+Cost: free
+
+Center: techHUB, https://techhub.osu.edu/
+Printer: MakerBot Replicator Z18,http://store.makerbot.com/replicator-z18
+Contact: Chris Helman, https://u.osu.edu/techhublabs/author/helman-9-2/
+Building: Tuttle Garage
+Location: 40.0030931,-83.016812
+Access: university-wide
+Cost: pricing formula
+
+Lab: Osteo Engineering Lab, http://www.osteoengineering.com
+Contact: David Dean, http://plasticsurgery.osu.edu/about-us/ourfaculty/daviddean/index.cfm
+Printer: EnvisionTEC Perfactory 3 DSP, http://envisiontec.com/3d-printers/perfactory-family/p3-digital-shell-printer/
+Printer: EnvisionTEC Perfactory Micro, http://envisiontec.com/3d-printers/micro-family/
+Printer: 3D Systems Viper HA, http://www.businesswire.com/news/home/20041020005294/en/3D-Systems-Introduces-Hearing-Aid-Shells-Manufacturing#.VDKYLb4qlbw
+Building: Biomedical Research Tower 
+Location: 39.9965099,-83.0193726
+Department: Plastic Surgery
+College: Medicine
+Access: department only
+
+Center: Advanced Computing Center for the Arts and Design (ACCAD), http://accad.osu.edu
+Contact: Matt Lewis, https://www.accad.ohio-state.edu/~mlewis/
+Building: Sullivant Hall
+Location: 39.999466,-83.0086445
+College: Arts and Sciences
+Contact: Alex Oliszewski
+Contact: Vita Berezina-Blackburn, http://accad.osu.edu/~vberezin/
+Printer: MakerBot Replicator 2, https://store.makerbot.com/replicator2
+Printer: Ultimaker 2+,https://ultimaker.com/en/products/ultimaker-2-plus
+Access: facility only
+Access: with permission
+Cost: provide material
+
+Online: Shapeways
+Contact: Matt Lewis
+Cost: pricing formula
+
+Department: Architecture, https://ksacommunity.osu.edu/group/digital-fabrication-lab
+Contact: Michael Baumberger, http://knowlton.osu.edu/people/baumberger
+Printer: Stratasys Vantage i FDM, https://ksacommunity.osu.edu/group/digital-fabrication-lab/stratasys-vantage-i-manual
+Printer: ZCorp 510, http://artandtech.osu.edu/dirlweb/
+Printer: MakerBot Replicator 5th Generation
+Printer: MakerBot Replicator Z18, http://store.makerbot.com/replicator-z18
+Location: 40.003732,-83.016715
+Building: Knowlton Hall
+College: Engineering
+Access: department only
+Access: with permission
+
+Department: Art, http://art.osu.edu
+Printer: MakerBot Replicator 2x, https://store.makerbot.com/replicator2x
+Building: Hopkins Hall
+Location: 40.0007739,-83.0116524
+Contact: Ken Rinaldo, http://art.osu.edu/people/ken-rinaldo
+College: Arts and Sciences
+Access: department only
+
+Contact: Steve Thurston, https://art.osu.edu/people/thurston.14
+Printer: Formlabs Form 1
+Department: Art
+Building: Hopkins Hall
+College: Arts and Sciences
+Location: 40.0007739,-83.0116524
+
+Department: Design,https://design.osu.edu
+Contact: Jeff Haase, https://design.osu.edu/people/haase.3
+Printer: MakerBot Replicator 2
+#Printer: Formlabs Form 1, http://en.wikipedia.org/wiki/Formlabs#Form_1
+#Printer: Rep Rap, http://artsandsciences.osu.edu/news/undergraduate-industrial-design-students-construct-3d-printers
+Location: 40.0004661,-83.0111283
+Building: Hayes Hall
+College: Arts and Sciences
+Access: department only
+Cost: provide material
+
+Lab: Studios for Art & Design Research, https://u.osu.edu/studiosforartanddesign/studios/
+Printer: Type A Machines Series 1,http://www.typeamachines.com/products/series1-3dprinter
+Printer: Ultimaker 2+,https://ultimaker.com/en/products/ultimaker-2-plus
+Printer: LulzBot TAZ 6,https://www.lulzbot.com/store/printers/lulzbot-taz-6
+Contact: Andrew Frueh, https://design.osu.edu/people/frueh.22
+#Contact: Nathaniel Hartman, http://www.nathanielhartman.com
+Location: 40.0010058,-83.0113901
+Building: Hopkins Hall
+College: Arts and Sciences
+
+Lab: Studios for Art & Design Research, https://u.osu.edu/studiosforartanddesign/studios/
+Department: Design
+Department: Art
+Access: department only
+Cost: pricing formula
+
+#Lab: EEIC Multidisciplinary Engineering Capstone Lab, https://eeic.osu.edu/multidisciplinary-engineering-capstone-design
+#College: Engineering
+#Printer: 3D Systems ProJet 3500 HD,http://www.3dsystems.com/3d-printers/professional/projet-3500-hdmax
+#Printer: 3D Systems ProJet 660 Pro,http://www.3dsystems.com/3d-printers/professional/projet-660pro
+#Printer: 3D Systems Cube, http://www.3dsystems.com/3d-printers/desktop
+#Contact: Richard Teynor, https://eeic.osu.edu/people/teynor.2
+#Building: Smith Lab
+#Location: 40.0024583,-83.0132371
+#Access: university-wide
+#Cost: pricing formula
+
+Lab: EEIC Robotics Lab, https://eeic.osu.edu/robot-competition
+College: Engineering
+Contact: Neil Gardner, http://eeic.osu.edu/people/gardner.79-1
+Contact: Stuart Brand, https://eeic.osu.edu/people/brand.27-0
+Location: 40.00379,-83.015018
+Building: Hitchcock Hall
+Printer: 3D Systems VFlash, https://www.youtube.com/watch?v=XRFcyn2lLcY
+Printer: MakerBot Replicator 2
+
+College: Engineering
+Department: Computer Science and Engineering
+Contact: Huamin Wang, http://web.cse.ohio-state.edu/~whmin/
+Location: 40.0024332,-83.0161413
+Building: Dreese Hall
+Printer: Formlabs Form 1+
+
+Lab: MAE Research Shop,https://mae.osu.edu/mae-dept.-machine-shops
+Department: Mechanical Engineering, https://mae.osu.edu
+Printer: Dimension 1200ES, http://www.stratasys.com/3d-printers/design-series/dimension-1200es
+Printer: Stratasys Fortus400MC,http://www.stratasys.com/3d-printers/production-series/fortus-400mc
+Printer: Objet Prime30 Polyjet Printer,http://www.stratasys.com/3d-printers/design-series/objet30-prime
+Contact: Blaine Lilly, http://mae.osu.edu/people/lilly.2
+Contact: Kevin Wolf, https://mae.osu.edu/people/wolf.530
+Location: 40.0022856,-83.0144305
+Building: Scott Lab
+College: Engineering
+Access: university-wide
+Cost: pricing formula
+
+Department: Theatre, https://theatre.osu.edu
+Printer: MakerBot Replicator 2
+Location: 39.999275,-83.023192
+Building: Drake Union
+Contact: Jim Knapp, https://theatre.osu.edu/people/knapp
+Contact: Alex Oliszewski, https://theatre.osu.edu/people/oliszewski
+Contact: Mary Tarantino, https://theatre.osu.edu/people/tarantino.1
+College: Arts and Sciences
+Access: department only
+
+Contact: Haijun Su, https://mae.osu.edu/people/su.298
+Printer: MakerBot Replicator 2x
+Lab: Design Innovation and Simulation Lab (DISL), https://disl.osu.edu
+Department: Mechanical Engineering
+College: Engineering
+
+#Building: Fontana Labs
+#Lab: Solidification Lab, https://mse.osu.edu/research/solidification-and-metal-casting-laboratories
+#Printer: Prometal SR2
+#Location: 40.0032592,-83.0123206
+#Department: Materials Science and Engineering
+#College: Engineering
+
+# Place: EWI, http://ewi.org/technologies/additive-manufacturing/
+
+Contact: Brian Welk, https://cemas.osu.edu/people/welk.3
+Center: Center for the Accelerated Maturation of Materials (CAMM), https://camm.osu.edu
+#Printer: LENS,http://en.wikipedia.org/wiki/Laser_engineered_net_shaping
+Printer: LENS,https://camm.osu.edu/facilities/processing/optomec-lens™
+Location: 39.999056,-83.0456112
+College: Engineering
+
+Center: Center for Design and Manufacturing Excellence (CDME), https://cdme.osu.edu
+Printer: 3D Systems ProJet 3500HD Max,http://www.3dsystems.com/3d-printers/professional/projet-3500-hdmax
+Printer: 3D Systems ProJet 660 Pro,http://www.3dsystems.com/3d-printers/professional/projet-660pro
+Printer: FormLabs Form 2, https://formlabs.com/3d-printers/form-2/ 
+Printer: Mcor IRIS HD, http://mcortechnologies.com/3d-printers/matrix-300-plus/ 
+Printer: Afinia H800, http://afinia.com/3d-printers/h800/
+Printer: Afinia H400, http://afinia.com/3d-printers/h400/
+Printer: Stratasys F370, http://www.stratasys.com/3d-printers/f123
+Printer: Desktop Metal Studio,https://www.desktopmetal.com/products/studio/ 
+Printer: Mark Forged Mark II,https://markforged.com/mark-two/
+Printer: Concept Laser MLAB cusing 200R,https://www.concept-laser.de/en/products/machines/mlab-cusing.html
+#Printer: IC3D custom-built,https://cdme.osu.edu/news/2016/06/new-library-sculpture-printed-cdme-member-company-ic3d
+Contact: Richard Teynor, https://eeic.osu.edu/people/teynor.2
+Contact: Nate Ames, https://cdme.osu.edu/who-we-are/contact-us
+Access: university-wide
+Access: with permission
+Cost: pricing formula
+Location: 39.9992767,-83.0436432
+
+Online: 3D Systems Quickparts, http://www.3dsystems.com/quickparts
+Online: Shapeways, https://www.shapeways.com
+Online: Ponoko, https://www.ponoko.com
+Online: i.materialize, http://i.materialise.com
+Online: sculpteo, http://www.sculpteo.com/en/
+Cost: pricing formula
+Access: university-wide
+
+Resource: Peachy Printer - How It Works, http://www.peachyprinter.com/#!methods/cjg9
+
+Resource: 3D File Diffs, https://github.com/blog/1633-3d-file-diffs
+
+Resource: The FreeD - a handheld digital milling device for craft and fabrication, https://www.youtube.com/watch?v=TxHiTjapTqg
+
+Resource: Easy 3D Printing Creator Apps, https://www.shapeways.com/creator/
+
+Resource: MakerBot Automated Build Platform, http://www.makerbot.com/blog/2010/09/13/makerbot-automated-build-platform/
+
+Resource: Solar Sinter Project, http://vimeo.com/25401444
+
+Resource: Flood, http://floodeditor.com/
+
+Resource: Shapeways SVX, a Voxel Based File Format for 3D Printing, https://www.shapeways.com/blog/archives/17972-shapeways-launches-svx-voxel-file-format-for-3d-printing.html
+
+Resource: Urban Typography Transforms Texts into 3D Skylines, http://thecreatorsproject.vice.com/blog/urban-typography-transforms-texts-into-3d-skylines
+
+Resource: A five-foot-tall, Delta 3D printer makes stunning and functional 3D printed ceramics, http://www.3ders.org/articles/20140819-a-huge-delta-3d-printer-makes-functional-3d-printed-ceramics.html
+
+Resource: Filament Sculptures, http://www.liaworks.com/theprojects/filament-sculptures/
+
+Resource: Ultrafine particle emissions from desktop 3D printers, http://www.sciencedirect.com/science/article/pii/S1352231013005086
+
+Resource: Shapeways | 2D Design to 3D Print Creator, https://www.shapeways.com/creator/2dto3d#landing
+
+Resource: Carbon3D Unveils Breakthrough CLIP 3D Printing Technology, 25-100X Faster, http://3dprint.com/51566/carbon3d-clip-3d-printing/
+
+Resource: Demystifying copyright licensing and 3D printing - Boing Boing, http://boingboing.net/2015/03/23/demystifying-copyright-licensi.html
+
+Resource: 3D Printer Comparison Chart, http://www.productchart.com/3d_printers/
+
+Resource: 11 Experts Share Their Top 3D Printing Beginner Tips | 3D Printing for Beginners, http://3dprintingforbeginners.com/3d-printing-tips/
+
+Resource: Replicator 2 Extruder Clogged, https://groups.google.com/forum/#!topic/makerbot/hckIRlAXcnU
+
+Online: 3D Systems Quickparts, http://www.3dsystems.com/quickparts
+Contact: Richard Teynor
+
+Resource: MultiFab: A Machine Vision Assisted Platform for Multi-material 3D Printing | The Computational Fabrication Group, http://cfg.mit.edu/content/multifab-machine-vision-assisted-platform-multi-material-3d-printing
+
+Resource: Snap-Fit Joints for Plastics Design Guide, http://fab.cba.mit.edu/classes/S62.12/people/vernelle.noel/Plastic_Snap_fit_design.pdf
+
+Resource: Monolith is a voxel-based modeling engine for multimaterial 3D printing, http://www.monolith.zone/#introduction
+
+Resource: Visualizing Mathematics with 3D Printing, http://www.3dprintmath.com/
+
+Resource: How to 3D Print with Flexible Filaments, http://www.gyrobot.co.uk/blog/how-to-3d-print-with-flexible-filaments
+
+Resource: Ultimaker Schooling - Materials | The Ultimaker CREATE Education Project, http://www.createeducation.co.uk/resources/ultimaker-schooling-materials/?utm_content=bufferf4488&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+Resource: Cilllia, http://tangible.media.mit.edu/project/cilllia/
+
+Resource: The Ultimate 3D Printing Cheat Sheet - AstroPrint, https://blog.astroprint.com/the-ultimate-3d-printing-cheat-sheet/
+
+Resource: 50 Digital Wood Joints Poster | Make:, http://makezine.com/2014/12/04/50-digital-wood-joints-poster/
+
+Resource: Metamaterial Mechanisms Fabrication research, http://prostheticknowledge.tumblr.com/post/150273004931/metamaterial-mechanisms-fabrication-research-from
+
+Resource: Additivism, http://additivism.org/
+
+Online: 3D Hubs: Local Manufacturing | 3D Printing & CNC Machining, https://www.3dhubs.com/
+
+Resource: Snap-Fit Joints for Plastics, http://fab.cba.mit.edu/classes/S62.12/people/vernelle.noel/Plastic_Snap_fit_design.pdf
+
+Resource: A replicator 2/2X air scrubber that really works, https://www.thingiverse.com/make:76712
+
+Resource: Shapeways EDU Program - Shapeways, https://www.shapeways.com/education
+
+Resource: NIH 3D Print Exchange | A collection of biomedical 3D printable files and 3D printing resources supported by the National Institutes of Health (NIH), https://3dprint.nih.gov/
+
+Resource: Morphi App, http://www.morphiapp.com
+
